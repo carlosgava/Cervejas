@@ -1,0 +1,56 @@
+PODS:
+  - Kingfisher (3.9.1)
+  - "NSObject+Rx (2.3.0)":
+    - RxSwift (~> 3.0)
+  - ReachabilitySwift (3)
+  - RxCocoa (3.4.1):
+    - RxSwift (~> 3.4)
+  - RxDataSources (1.0.3):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxFeedback (0.1.0):
+    - RxCocoa (~> 3.4)
+    - RxSwift (~> 3.4)
+  - RxSwift (3.4.1)
+  - RxSwiftUtilities (1.0.1):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - Shimmer (1.0.2)
+
+DEPENDENCIES:
+  - Kingfisher
+  - "NSObject+Rx"
+  - ReachabilitySwift
+  - RxCocoa
+  - RxDataSources
+  - RxFeedback
+  - RxSwift
+  - RxSwiftUtilities
+  - Shimmer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - "NSObject+Rx"
+    - ReachabilitySwift
+    - RxCocoa
+    - RxDataSources
+    - RxFeedback
+    - RxSwift
+    - RxSwiftUtilities
+    - Shimmer
+
+SPEC CHECKSUMS:
+  Kingfisher: 6729a0baaa458245bfb8cd5a1296c71c10d6eb6c
+  "NSObject+Rx": 38170f84b948152c05c57260cb853e387a5519d1
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  RxCocoa: a8a5f1d061d0043e28f56976829f31ce63e8eb09
+  RxDataSources: a021a0e944ba5f7991259829d973afdbfa719c0b
+  RxFeedback: c23bebc1a6a0186de2ccf23a9308a4e85f498eb1
+  RxSwift: 656f8fbeca5bc372121a72d9ebdd3cd3bc0ffade
+  RxSwiftUtilities: 57e77c17b885931c37aa038f114f14fd1f478ac2
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+
+PODFILE CHECKSUM: 8c6e648c11c2e2919da8f498144af5bc0f2458e0
+
+COCOAPODS: 1.5.3
